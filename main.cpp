@@ -3,17 +3,8 @@
 		| Program Developed and Maintained w/ ❤  :-
 		| DeadLine Chasers | DLC
 		|------------------------------------------------------------------
-		| Subject : CSEB324 Data Structure & Algorithms
-		| 1. Name : Muhammad Daniel Bin Mohd Hamdan					ID: SW0107514
-		| 2. Name : Muhammad Faizal 												ID: SW0107290
-		| 3. Name : Muadz Bin Zainuddin											ID: SW0107478
-		| 4. Name : Nur Rahimatil Ain Bt Mat Rahim					ID: SW0107489
-		| 5. Name : Tariq Ahmed Mansour Mohsen Abohatem			ID: SW0106917
-		| 6. Name : Zafar Muhammad Aqif Bin Muhammad Farid	ID: SW0107316
-		|------------------------------------------------------------------
 		| Works Best on the IDE :-
 		| Replit.com
-		| https://replit.com/join/lyyjjrpkzr-pejal
 		|------------------------------------------------------------------
 */	
 
